@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Wu
+  given-names: Baosheng
+orcid: https://orcid.org/0000-0000-0000-0000
+title:wubaosheng/scRNA-snRNA: scRNA-seq for cross species v1.0
+version: scRNA-seq
+date-released: 2024-07-06
